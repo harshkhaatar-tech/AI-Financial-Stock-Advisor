@@ -1,4 +1,3 @@
-services/recommendation.service.js
 const OpenAI = require('openai');
 
 // Instantiate the OpenAI client
